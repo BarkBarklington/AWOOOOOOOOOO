@@ -3,5 +3,5 @@
 
 😻🐾🐕
 
-[🎀](https://www.barkbarklington.com/bowtie1.png)
+![🎀](https://www.barkbarklington.com/bowtie1.png)
 
