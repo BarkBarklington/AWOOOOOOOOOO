@@ -1,3 +1,4 @@
 - [Read Me](README)
+- [Game](Game)
 - [Example Second Page](second-page)
 - [Docsify Template](DocsifyTemplate)
