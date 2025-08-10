@@ -1,5 +1,5 @@
-**Archive / crawl / mirror / spider / recursively-download**  
-offline web download spider crawler copy copier archive mirror
+# **Archive | crawl | mirror | spider | recursively-download**  
+__offline web download spider crawler copy copier archive mirror__
 
 [https://www.reddit.com/r/DataHoarder/comments/10yjkgm/alternative\_to\_httrack\_website\_copier\_as\_of\_2023/](https://www.reddit.com/r/DataHoarder/comments/10yjkgm/alternative_to_httrack_website_copier_as_of_2023/)
 
@@ -27,20 +27,34 @@ Many links now days are just empty anchors that call some JavaScript lookup func
 
 The best you can do is get the mirroring software to do the same thing and then 'bake' the link into a hard-link. As complicated as that sounds, that is the SIMPLEST form of what you will find today. The most complicated could involve several other servers, some crazy authentication hoops, captcha, HID data logging and a bunch of weird conversions that will all be completely unbeknownst to the user and will have just the same result as the link-\>address-\>navigate actions we once knew.
 
-# **Archive / crawl / mirror / spider / recursively-download**
+# **Archive | crawl | mirror | spider | recursively-download**
+__offline web download spider crawler copy copier archive mirror__
 
-[https://archivebox.io/](https://archivebox.io/)  
+
+[https://archivebox.io/](https://archivebox.io/)
+
 [https://wiki.archiveteam.org/](https://wiki.archiveteam.org/)
-[https://webrecorder.net/](https://webrecorder.net/)  
+
+[https://webrecorder.net/](https://webrecorder.net/) 
+
 [https://github.com/webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler)  
+
 [https://crawler.docs.browsertrix.com/](https://crawler.docs.browsertrix.com/)  
+
 [https://www.cyotek.com/cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy)  
+
 [https://dynomapper.com/blog/11-content-inventory/287-how-to-download-an-entire-website-for-offline-viewing](https://dynomapper.com/blog/11-content-inventory/287-how-to-download-an-entire-website-for-offline-viewing)  
+
 [https://medevel.com/os1-3-web-copier/](https://medevel.com/os1-3-web-copier/)  
+
 \[Deprecated|old\] [https://www.httrack.com/](https://www.httrack.com/)  
+
 [https://www.reddit.com/r/DataHoarder/comments/10yjkgm/alternative\_to\_httrack\_website\_copier\_as\_of\_2023/](https://www.reddit.com/r/DataHoarder/comments/10yjkgm/alternative_to_httrack_website_copier_as_of_2023/)  
+
 What's wrong with wget? I found that `wget --mirror` works quite well   
+
 [https://eternallybored.org/misc/wget/](https://eternallybored.org/misc/wget/)  
+
 [https://gnuwin32.sourceforge.net/packages/wget.htm](https://gnuwin32.sourceforge.net/packages/wget.htm)
 
 WGET \-mrpxkKEe robots=off | wget \--mirror \--convert-links \--adjust-extension \--page-requisites \--no-parent [https://site-to-download.com](https://site-to-download.com)
