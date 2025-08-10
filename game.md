@@ -1,47 +1,26 @@
-   www.BarkBarklington.com | BarkBarklington.GitHub.io      
 
-#BeHappy❤ #BePuppy🦮🐕‍🦺
+_@BarkBarklington | BarkBarklington#3362_
+ | #BeHappy❤ #BePuppy🦮🐕‍🦺  | www.BarkBarklington.com | BarkBarklington.GitHub.io      
+
 
 
 [![Profile Picture](https://static-cdn.jtvnw.net/jtv_user_pictures/0fadf195-3740-4d35-9b2d-6d6cdf39e9ab-profile_banner-480.png)](https://static-cdn.jtvnw.net/jtv_user_pictures/0fadf195-3740-4d35-9b2d-6d6cdf39e9ab-profile_banner-480.png)
 
-But... the sensation that I've lost something lingers for a longtime after I wake up.
-
-_~PUPPY~_
-=========
-
-_@BarkBarklington | BarkBarklington#3362_
-
-
 ---------------------------------------------
 
 _🌈🏳️‍⚧️🐧Linux™GAMING🎮Repair🪛Tech🔩_
-
-
-============================================
-
 _🐾Live: 6-11pm12-3am(EDT)🔁daily_
-
-
-======================================
-
 _Variety Streamer: Join My Clan & Squad_
-
-
-============================================
-
 _So we can Play Together & VOTE ON WHAT I STREAM_
-
-
 =====================================================
 
 [_🐉Join🌈TALENTURE🏳️‍⚧️Agency🏳️‍🌈Creator🦄Network🐲_](https://www.tiktok.com/t/ZP864Ppum/)
 
-[_✉️BarkBarklington@gmail.com📨_](mailto:BarkBarklington@GMAIL.com?subject=Caught your live stream&body=Just caught your live stream and want to collaborate!)
+[_✉️BarkBarklington@gmail.com📨_](mailto:BarkBarklington@GMAIL.com?subject=CaughtYourLivestream&body=JustCaughtYourLiveStreamAndWantedToCollaborate!)
 
 [_Discord🔗Server🔗Play Together🔗Join My Clan & Squad_](https://discord.gg/na4x84dTWx)
 
-[_Call 🤙🏽 or text me_](tel:+15186184887) 
+[_Call 🤙🏽 or text me_](tel:+15186184887)
 
 [_AboutMe | Blog | Greetz & ShoutOuts_](about.html) 
 
@@ -71,33 +50,16 @@ _So we can Play Together & VOTE ON WHAT I STREAM_
 
 
 _🌈🏳️‍⚧️🐧Linux™GAMING🎮Repair🪛Tech🔩_
-
-
 ============================================
-
 _🐾Live: 6-11pm12-3am(EDT)🔁daily_
-
-
 ======================================
-
 _Variety Streamer: Join My Clan & Squad_
-
-
 ============================================
-
 _So we can Play Together & VOTE ON WHAT I STREAM_
-
-
 =====================================================
-
 _@BarkBarklington | BarkBarklington#3362_
 
-
 ---------------------------------------------
-
 _~PUPPY~_
-
-
 =============
-
 #BeHappy❤ #BePuppy🦮🐕‍🦺
