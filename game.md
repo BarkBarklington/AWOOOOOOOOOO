@@ -2,16 +2,18 @@
 _@BarkBarklington | BarkBarklington#3362_
  | #BeHappy❤ #BePuppy🦮🐕‍🦺  | www.BarkBarklington.com | BarkBarklington.GitHub.io      
 
-
-
 [![Profile Picture](https://static-cdn.jtvnw.net/jtv_user_pictures/0fadf195-3740-4d35-9b2d-6d6cdf39e9ab-profile_banner-480.png)](https://static-cdn.jtvnw.net/jtv_user_pictures/0fadf195-3740-4d35-9b2d-6d6cdf39e9ab-profile_banner-480.png)
 
 ---------------------------------------------
-
 _🌈🏳️‍⚧️🐧Linux™GAMING🎮Repair🪛Tech🔩_
+============================================
 _🐾Live: 6-11pm12-3am(EDT)🔁daily_
+======================================
 _Variety Streamer: Join My Clan & Squad_
+============================================
 _So we can Play Together & VOTE ON WHAT I STREAM_
+=====================================================
+_@BarkBarklington | BarkBarklington#3362_
 =====================================================
 
 [_🐉Join🌈TALENTURE🏳️‍⚧️Agency🏳️‍🌈Creator🦄Network🐲_](https://www.tiktok.com/t/ZP864Ppum/)
@@ -60,6 +62,4 @@ _So we can Play Together & VOTE ON WHAT I STREAM_
 _@BarkBarklington | BarkBarklington#3362_
 
 ---------------------------------------------
-_~PUPPY~_
-=============
-#BeHappy❤ #BePuppy🦮🐕‍🦺
+============= #BeHappy❤ #BePuppy🦮🐕‍🦺
